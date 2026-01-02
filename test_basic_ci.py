@@ -18,3 +18,5 @@ def tset_ci_is_working2():
 
 def test_ci_should_fail():
      assert 1 + 1 == 3
+
+#커밋 푸쉬 연습입니다
