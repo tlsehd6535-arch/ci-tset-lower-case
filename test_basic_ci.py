@@ -16,5 +16,5 @@ def test_ci_is_working():
 def tset_ci_is_working2():
     assert 1+1 ==3
 
-# def test_ci_should_fail():
-#     assert 1 + 1 == 3
+def test_ci_should_fail():
+     assert 1 + 1 == 3
