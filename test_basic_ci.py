@@ -13,10 +13,9 @@ def test_ci_is_working():
     """
     assert 1 + 1 == 2
     
-def tset_ci_is_working2():
-    assert 1+1 ==3
 
-def test_ci_should_fail():
-     assert 1 + 1 == 3
+
+# def test_ci_should_fail():
+#      assert 1 + 1 == 3
 
 #커밋 푸쉬 연습입니다
